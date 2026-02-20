@@ -1,1 +1,1 @@
-## Galli map integrated with React
+## Open street map integrated with Nextjs
